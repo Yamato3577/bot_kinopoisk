@@ -19,7 +19,7 @@
 
 Выполнить в консоли:
 ```commandline 
-git clone https://gitlab.skillbox.ru/aleksandr_panov_4/python_basic_diploma.git
+git clone https://github.com/Yamato3577/bot_kinopoisk.git
 pip install -r requirments.txt
 ```
 
